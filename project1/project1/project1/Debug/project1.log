@@ -1,0 +1,3 @@
+﻿  main.cpp
+d:\workspace\cs32\project1\main.cpp(121): error C2512: “History”: 没有合适的默认构造函数可用
+  d:\workspace\cs32\project1\history.h(8): note: 参见“History”的声明
